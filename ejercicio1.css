@@ -1,0 +1,35 @@
+#selector{
+    width: 960px;
+}
+
+#selector td{
+    border: solid 1px black;
+    width: 200px;
+    height: 10px;
+}
+
+#enseñaColor{
+    text-align: center;
+}
+
+#selectorRojo, .rojo{
+    background-color: red;
+}
+#selectorAmarillo, .amarillo{
+    background-color: yellow;
+}
+#selectorVerde, .verde{
+    background-color: green;
+}
+#selectorAzul, .azul{
+    background-color: blue;
+}
+#selectorBlanco, .blanco{
+    background-color: white;
+}
+
+#lienzo td{
+    border: solid 1px black;
+    width: 10px;
+    height: 10px;
+}
